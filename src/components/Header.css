@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    align-items:center;
+}
+
+header img{
+    display: flex;
+    align-items: flex-start;
+  
+    width: 20%;
+}
+.text{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

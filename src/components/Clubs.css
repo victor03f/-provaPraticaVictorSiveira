@@ -1,0 +1,15 @@
+.Pagina-clube{
+    display: flex;
+    flex-direction: column;
+}
+
+.escudos{
+    align-items: center;
+    display: flex;
+}
+
+.nomes-clubes p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
